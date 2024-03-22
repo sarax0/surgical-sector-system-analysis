@@ -15,7 +15,7 @@ Prior to surgery, patients undergo vital sign assessments by the anesthetist to 
 
 On the day of surgery, the secretary confirms patient attendance and initiates the operation list. Patients are then escorted to the operating room by the nurse, where the Chief Surgeon retrieves their file and conducts the operation. Post-operation, the patient's status is updated, and recovery room arrangements are made as per protocol.
 
-![Uploading image.png…]()
+![image](https://github.com/sarax0/surgical-sector-system-analysis/assets/122404545/90eaf557-d376-418f-ad98-5a001e6e4968)
 
 ---
 ## Items and Attributes
